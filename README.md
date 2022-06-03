@@ -6,7 +6,7 @@
 3. STM32接收数据，显示图片
 
 ## 视频效果
-
+![image](https://github.com/Scale08/OLEDShowVideo/blob/main/%E8%A7%86%E9%A2%91%E6%95%88%E6%9E%9C.gif)
 
 ## 使用方式
 1. 使用usart1，将线接好
